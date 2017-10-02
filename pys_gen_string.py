@@ -1,0 +1,27 @@
+# replace and sequence
+s1="I'am a {0} and have {1} bin".format('gofer', 18)
+print(s1)
+s1="I'am a {1} and have {0} bin".format('gofer', 18)
+print(s1)
+
+#format
+s1="I'am a {:10s} and have {:6.2f} bin".format('gofer', 18)
+print(s1)
+s1="I'am a {:^10s} and have {:6.2f} bin".format('gofer', 18)
+print(s1)
+s1="I'am a {:>10s} and have {:6.2f} bin".format('gofer', 18)
+print(s1)
+s1="I'am a {:*>10s} and have {:6.2f} bin".format('gofer', 18)
+print(s1)
+s1="I'am a {:*^10s} and have {:<6.2f} bin".format('gofer', 18)
+print(s1)
+s1='I have {:,.2f}'.format(1234567890.00)
+print(s1)
+s1='I have {:,.5e}'.format(1234567890.00)
+print(s1)
+import datetime
+d = datetime.datetime(2010, 7, 4, 12, 15, 58)
+s1='{:%Y-%m-%d %H:%M:%S}'.format(d)
+print(s1)
+s1='{:%Y/%m/%d}'.format(d)
+print(s1)

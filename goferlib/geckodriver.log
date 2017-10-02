@@ -1,0 +1,1025 @@
+1503173315208	geckodriver	INFO	geckodriver 0.18.0
+1503173315218	geckodriver	INFO	Listening on 127.0.0.1:45855
+1503173315808	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[ODEBUG] [Explorer Probe] [disableSPDY]#In disableSPDY()[ODEBUG] [Explorer Probe] [disableSPDY]#Trying to get profile path from command line if existsJavaScript warning: resource://cck2/CCK2.jsm, line 1038: unreachable code after return statement
+1503173324663	Marionette	INFO	Listening on port 45859
+1503173325000	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503173336274	Marionette	INFO	Ceased listening
+0
+1503173326836	geckodriver	INFO	Listening on 127.0.0.1:45890
+1503173327350	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[ODEBUG] [Explorer Probe] [disableSPDY]#In disableSPDY()[ODEBUG] [Explorer Probe] [disableSPDY]#Trying to get profile path from command line if existsJavaScript warning: resource://cck2/CCK2.jsm, line 1038: unreachable code after return statement
+1503173332678	Marionette	INFO	Listening on port 45896
+1503173333766	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503173338517	Marionette	INFO	Ceased listening
+1503181794807	geckodriver	INFO	geckodriver 0.18.0
+1503181794827	geckodriver	INFO	Listening on 127.0.0.1:61827
+1503181795387	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[ODEBUG] [Explorer Probe] [disableSPDY]#In disableSPDY()[ODEBUG] [Explorer Probe] [disableSPDY]#Trying to get profile path from command line if existsJavaScript warning: resource://cck2/CCK2.jsm, line 1038: unreachable code after return statement
+1503181801462	Marionette	INFO	Listening on port 61831
+1503181801863	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503181812668	Marionette	INFO	Ceased listening
+0
+1503181803671	geckodriver	INFO	Listening on 127.0.0.1:61859
+1503181804212	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[ODEBUG] [Explorer Probe] [disableSPDY]#In disableSPDY()[ODEBUG] [Explorer Probe] [disableSPDY]#Trying to get profile path from command line if existsJavaScript warning: resource://cck2/CCK2.jsm, line 1038: unreachable code after return statement
+1503181809810	Marionette	INFO	Listening on port 61867
+1503181810674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503181816553	Marionette	INFO	Ceased listening
+1503422199539	geckodriver	INFO	geckodriver 0.18.0
+1503422199587	geckodriver	INFO	Listening on 127.0.0.1:60670
+1503422200183	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[ODEBUG] [Explorer Probe] [disableSPDY]#In disableSPDY()[ODEBUG] [Explorer Probe] [disableSPDY]#Trying to get profile path from command line if existsJavaScript warning: resource://cck2/CCK2.jsm, line 1038: unreachable code after return statement
+1503422212218	Marionette	INFO	Listening on port 60674
+1503422215377	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503422353050	Marionette	INFO	Ceased listening
+1503422357456	geckodriver	INFO	geckodriver 0.18.0
+1503422357495	geckodriver	INFO	Listening on 127.0.0.1:60745
+1503422358079	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[ODEBUG] [Explorer Probe] [disableSPDY]#In disableSPDY()[ODEBUG] [Explorer Probe] [disableSPDY]#Trying to get profile path from command line if existsJavaScript warning: resource://cck2/CCK2.jsm, line 1038: unreachable code after return statement
+1503422367254	Marionette	INFO	Listening on port 60749
+1503422367972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503422518428	Marionette	INFO	Ceased listening
+1503422531224	geckodriver	INFO	geckodriver 0.18.0
+1503422531262	geckodriver	INFO	Listening on 127.0.0.1:60925
+1503422531833	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[ODEBUG] [Explorer Probe] [disableSPDY]#In disableSPDY()[ODEBUG] [Explorer Probe] [disableSPDY]#Trying to get profile path from command line if existsJavaScript warning: resource://cck2/CCK2.jsm, line 1038: unreachable code after return statement
+1503422539926	Marionette	INFO	Listening on port 60929
+1503422542657	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=144&advId=NWNatural_CMDAdvertisingPNW&campId=11351515&pubId=1&chanId=http://bbs.wenxuecity.com/cooking/&placementId=2027066142&impID=%3Cxid%3E&adsafe_par, line 17: SyntaxError: illegal character
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=9406&campId=1017959&pubId=31C8F68A7491A98F825F468C279FF7D2&chanId=86c0085f337f3e118f7f3068c84086cf&placementId=540339&impId=7964344775395485612, line 17: SyntaxError: illegal character
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=144&advId=NWNatural_CMDAdvertisingPNW&campId=11351515&pubId=1&chanId=http://bbs.wenxuecity.com/cooking/&placementId=2027066142&impID=%3Cxid%3E&adsafe_par, line 17: SyntaxError: illegal character
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=144&advId=NWNatural_CMDAdvertisingPNW&campId=11351515&pubId=1&chanId=http://bbs.wenxuecity.com/cooking/&placementId=2027066142&impID=%3Cxid%3E&adsafe_par, line 17: SyntaxError: illegal character
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=9406&campId=1017959&pubId=31C8F68A7491A98F825F468C279FF7D2&chanId=86c0085f337f3e118f7f3068c84086cf&placementId=540341&impId=637718312561156158, line 17: SyntaxError: illegal character
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=9406&campId=1017959&pubId=31C8F68A7491A98F825F468C279FF7D2&chanId=86c0085f337f3e118f7f3068c84086cf&placementId=540339&impId=2870937790437383708, line 17: SyntaxError: illegal character
+JavaScript error: https://sdk.vindicosuite.com/verify/v2/verify.js?event=1&iid=SM__adt__5403394518467150342257184775202&pid=0&lid=0&clid=3&aid=0&cid=0&crid=0&pt=3&ppid=1&pioid=&pbkid=319333&pcid=1017959&plid=540339&dur=0&adw=728&adh=90&uebu=https%3A%2F%2Fx.vindicosuite.com%2Fevent%2F%3Fe%3D%24SUGR_CUSTOM_EVENT_ID%24%3Bl%3D540339%3Bb%3D4518467%3Bc%3D1017959%3Bsmuid%3Dp0Fiv2WIN_V7mA%3Bmsd%3D%3Ba%3D160220%3Bta%3D1503422571%3Btk%3D18718%3Bcr%3D1349844807%3Bad%3DCLP9IBCutQ0Y5gsgASgEMMmEATjBxAFA5b4TSNnYFlDnkD5Yw-STAmDc4wlokeolcAF4AYgBAJABAJgBAKIBEzI4NzA5Mzc3OTA0MzczODM3MDiyAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgBzsjf1-Ar%3Bxid%3D2870937790437383708%3Bdcr%3D1%3Beav%3D%24SUGR_EVENT_ARGUMENT%24%3B%24SUGR_EVENT_PARAM%24%3Beov%3D%24SUGR_EVENT_OBJ%24%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsls%3D%24APP_SUGR_LOCATION%24%3Bsvn%3D%24APP_SUGR_VERSION%24%3Bals%3D%24APP_ADT_LOCATION%24%3Bavn%3D%24APP_ADT_VERSION%24%3Bspr%3D%24SUGR_QUERY_PARAMETERS%24&rn=1503422571, line 4: NS_ERROR_FAILURE: 
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=9406&campId=1030563&pubId=31C8F68A7491A98F825F468C279FF7D2&chanId=86c0085f337f3e118f7f3068c84086cf&placementId=547384&impId=2783799769074239221, line 17: SyntaxError: illegal character
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=9406&planId=1&campId=12101076&pubId=1&chanId=http://bbs.wenxuecity.com/cooking/&placementId=2027066142&impId=ABAjH0hEbXv55TzCAs-cD1GYHV1w&adsafe_par, line 17: SyntaxError: illegal character
+JavaScript error: https://sdk.vindicosuite.com/verify/v2/verify.js?event=1&iid=SM__adt__547384467137515034225762125798567&pid=0&lid=0&clid=3&aid=0&cid=0&crid=0&pt=3&ppid=1&pioid=&pbkid=319617&pcid=1030563&plid=547384&dur=0&adw=728&adh=90&uebu=https%3A%2F%2Fx.vindicosuite.com%2Fevent%2F%3Fe%3D%24SUGR_CUSTOM_EVENT_ID%24%3Bl%3D547384%3Bb%3D4671375%3Bc%3D1030563%3Bsmuid%3Dp0Fiv2WIN_V7mA%3Bmsd%3D%3Ba%3D249722%3Bta%3D1503422576%3Btk%3D68396%3Bcr%3D3395246277%3Bad%3DCLi0IRDLzQ0Y5gsgASgEMMmEATiexQFAgcETSKviFlCj8z5Yj4-dAmD6ng9o-qMncAF4AYgBAJABAJgBAKIBEzI3ODM3OTk3NjkwNzQyMzkyMjGyAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgBmPLf1-Ar%3Bxid%3D2783799769074239221%3Bdcr%3D1%3Beav%3D%24SUGR_EVENT_ARGUMENT%24%3B%24SUGR_EVENT_PARAM%24%3Beov%3D%24SUGR_EVENT_OBJ%24%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsls%3D%24APP_SUGR_LOCATION%24%3Bsvn%3D%24APP_SUGR_VERSION%24%3Bals%3D%24APP_ADT_LOCATION%24%3Bavn%3D%24APP_ADT_VERSION%24%3Bspr%3D%24SUGR_QUERY_PARAMETERS%24&rn=1503422576, line 4: NS_ERROR_FAILURE: 
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=9406&campId=1030563&pubId=31C8F68A7491A98F825F468C279FF7D2&chanId=86c0085f337f3e118f7f3068c84086cf&placementId=547384&impId=2627525545962754266, line 17: SyntaxError: illegal character
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=9406&planId=1&campId=12101076&pubId=1&chanId=http://bbs.wenxuecity.com/cooking/&placementId=2027066142&impId=ABAjH0i88rSEz5u7L7otMhi8LxoV&adsafe_par, line 17: SyntaxError: illegal character
+JavaScript error: https://sdk.vindicosuite.com/verify/v2/verify.js?event=1&iid=SM__adt__54738446713751503422590-682183855&pid=0&lid=0&clid=3&aid=0&cid=0&crid=0&pt=3&ppid=1&pioid=&pbkid=319617&pcid=1030563&plid=547384&dur=0&adw=728&adh=90&uebu=https%3A%2F%2Fx.vindicosuite.com%2Fevent%2F%3Fe%3D%24SUGR_CUSTOM_EVENT_ID%24%3Bl%3D547384%3Bb%3D4671375%3Bc%3D1030563%3Bsmuid%3Dp0Fiv2WIN_V7mA%3Bmsd%3D%3Ba%3D249722%3Bta%3D1503422590%3Btk%3D57172%3Bcr%3D278811899%3Bad%3DCLi0IRDLzQ0Y5gsgASgEMMmEATiexQFAgcETSKviFlCj8z5Yj4-dAmD6ng9o-qMncAF4AYgBAJABAJgBAKIBEzI2Mjc1MjU1NDU5NjI3NTQyNjayAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgBsd7g1-Ar%3Bxid%3D2627525545962754266%3Bdcr%3D1%3Beav%3D%24SUGR_EVENT_ARGUMENT%24%3B%24SUGR_EVENT_PARAM%24%3Beov%3D%24SUGR_EVENT_OBJ%24%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsls%3D%24APP_SUGR_LOCATION%24%3Bsvn%3D%24APP_SUGR_VERSION%24%3Bals%3D%24APP_ADT_LOCATION%24%3Bavn%3D%24APP_ADT_VERSION%24%3Bspr%3D%24SUGR_QUERY_PARAMETERS%24&rn=1503422590, line 4: NS_ERROR_FAILURE: 
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=9406&campId=1030563&pubId=33BBAE53C5AEE124553DA93012AF12DE&chanId=86c0085f337f3e118f7f3068c84086cf&placementId=547384&impId=878824357148246460, line 17: SyntaxError: illegal character
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=9406&planId=1&campId=12101076&pubId=1&chanId=http://bbs.wenxuecity.com/cooking/&placementId=2027066142&impId=ABAjH0hB82z79Mzhq-hzfP-r-9VM&adsafe_par, line 17: SyntaxError: illegal character
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=9406&campId=1030563&pubId=33BBAE53C5AEE124553DA93012AF12DE&chanId=86c0085f337f3e118f7f3068c84086cf&placementId=547384&impId=2542759732029664240, line 17: SyntaxError: illegal character
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=9406&planId=1&campId=12101076&pubId=1&chanId=http://bbs.wenxuecity.com/cooking/&placementId=2027066142&impId=ABAjH0htxpS87i63o9Z7JAavj4GK&adsafe_par, line 17: SyntaxError: illegal character
+JavaScript error: https://sdk.vindicosuite.com/verify/v2/verify.js?event=1&iid=SM__adt__54738446713751503422600-464710376&pid=0&lid=0&clid=3&aid=0&cid=0&crid=0&pt=3&ppid=1&pioid=&pbkid=319617&pcid=1030563&plid=547384&dur=0&adw=728&adh=90&uebu=https%3A%2F%2Fx.vindicosuite.com%2Fevent%2F%3Fe%3D%24SUGR_CUSTOM_EVENT_ID%24%3Bl%3D547384%3Bb%3D4671375%3Bc%3D1030563%3Bsmuid%3Dp0Fiv2WIN_V7mA%3Bmsd%3D%3Ba%3D249722%3Bta%3D1503422600%3Btk%3D97952%3Bcr%3D3851970229%3Bad%3DCLi0IRDLzQ0Y5gsgASgEMMmEATiexQFAgcETSKviFlCj8z5Yj4-dAmD6ng9o-qMncAF4AYgBAJABAJgBAKIBEzI1NDI3NTk3MzIwMjk2NjQyNDCyAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgBmKjh1-Ar%3Bxid%3D2542759732029664240%3Bdcr%3D1%3Beav%3D%24SUGR_EVENT_ARGUMENT%24%3B%24SUGR_EVENT_PARAM%24%3Beov%3D%24SUGR_EVENT_OBJ%24%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsls%3D%24APP_SUGR_LOCATION%24%3Bsvn%3D%24APP_SUGR_VERSION%24%3Bals%3D%24APP_ADT_LOCATION%24%3Bavn%3D%24APP_ADT_VERSION%24%3Bspr%3D%24SUGR_QUERY_PARAMETERS%24&rn=1503422600, line 4: NS_ERROR_FAILURE: 
+1503422708892	geckodriver	INFO	geckodriver 0.18.0
+1503422708946	geckodriver	INFO	Listening on 127.0.0.1:61149
+1503422709545	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[ODEBUG] [Explorer Probe] [disableSPDY]#In disableSPDY()[ODEBUG] [Explorer Probe] [disableSPDY]#Trying to get profile path from command line if existsJavaScript warning: resource://cck2/CCK2.jsm, line 1038: unreachable code after return statement
+1503422717541	Marionette	INFO	Listening on port 61153
+1503422718280	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=144&advId=NWNatural_CMDAdvertisingPNW&campId=11351515&pubId=1&chanId=http://bbs.wenxuecity.com/cooking/&placementId=2027066142&impID=%3Cxid%3E&adsafe_par, line 17: SyntaxError: illegal character
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=9406&campId=1017959&pubId=33BBAE53C5AEE124553DA93012AF12DE&chanId=86c0085f337f3e118f7f3068c84086cf&placementId=540339&impId=3704445434992240612, line 17: SyntaxError: illegal character
+JavaScript error: https://sdk.vindicosuite.com/verify/v2/verify.js?event=1&iid=SM__adt__54033945184671503422732-484684820&pid=0&lid=0&clid=3&aid=0&cid=0&crid=0&pt=3&ppid=1&pioid=&pbkid=319333&pcid=1017959&plid=540339&dur=0&adw=728&adh=90&uebu=https%3A%2F%2Fx.vindicosuite.com%2Fevent%2F%3Fe%3D%24SUGR_CUSTOM_EVENT_ID%24%3Bl%3D540339%3Bb%3D4518467%3Bc%3D1017959%3Bsmuid%3D%3Bmsd%3D%3Ba%3D160220%3Bta%3D1503422732%3Btk%3D92733%3Bcr%3D495499766%3Bad%3DCLP9IBCutQ0Y5gsgASgEMMmEATjBxAFA5b4TSNnYFlDnkD5Yw-STAmDc4wlokeolcAF4AYgBAJABAJgBAKIBEzM3MDQ0NDU0MzQ5OTIyNDA2MTKyAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgB-bPp1-Ar%3Bxid%3D3704445434992240612%3Bdcr%3D1%3Beav%3D%24SUGR_EVENT_ARGUMENT%24%3B%24SUGR_EVENT_PARAM%24%3Beov%3D%24SUGR_EVENT_OBJ%24%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsls%3D%24APP_SUGR_LOCATION%24%3Bsvn%3D%24APP_SUGR_VERSION%24%3Bals%3D%24APP_ADT_LOCATION%24%3Bavn%3D%24APP_ADT_VERSION%24%3Bspr%3D%24SUGR_QUERY_PARAMETERS%24&rn=1503422732, line 4: NS_ERROR_FAILURE: 
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=144&advId=NWNatural_CMDAdvertisingPNW&campId=11351515&pubId=1&chanId=http://bbs.wenxuecity.com/cooking/&placementId=2027066142&impID=%3Cxid%3E&adsafe_par, line 17: SyntaxError: illegal character
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=9406&campId=1017959&pubId=33BBAE53C5AEE124553DA93012AF12DE&chanId=86c0085f337f3e118f7f3068c84086cf&placementId=540339&impId=6277107158002404498, line 17: SyntaxError: illegal character
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=144&advId=NWNatural_CMDAdvertisingPNW&campId=11351515&pubId=1&chanId=http://bbs.wenxuecity.com/cooking/&placementId=2027066142&impID=%3Cxid%3E&adsafe_par, line 17: SyntaxError: illegal character
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=9406&campId=1017959&pubId=33BBAE53C5AEE124553DA93012AF12DE&chanId=86c0085f337f3e118f7f3068c84086cf&placementId=540339&impId=6441968419115928897, line 17: SyntaxError: illegal character
+JavaScript error: https://sdk.vindicosuite.com/verify/v2/verify.js?event=1&iid=SM__adt__54033945184671503422747750866400&pid=0&lid=0&clid=3&aid=0&cid=0&crid=0&pt=3&ppid=1&pioid=&pbkid=319333&pcid=1017959&plid=540339&dur=0&adw=728&adh=90&uebu=https%3A%2F%2Fx.vindicosuite.com%2Fevent%2F%3Fe%3D%24SUGR_CUSTOM_EVENT_ID%24%3Bl%3D540339%3Bb%3D4518467%3Bc%3D1017959%3Bsmuid%3DqsfZ_R5PPs7iaD%3Bmsd%3D%3Ba%3D160220%3Bta%3D1503422747%3Btk%3D39459%3Bcr%3D4225894480%3Bad%3DCLP9IBCutQ0Y5gsgASgEMMmEATjBxAFA5b4TSNnYFlDnkD5Yw-STAmDc4wlokeolcAF4AYgBAJABAJgBAKIBEzY0NDE5Njg0MTkxMTU5Mjg4OTeyAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgBtaPq1-Ar%3Bxid%3D6441968419115928897%3Bdcr%3D1%3Beav%3D%24SUGR_EVENT_ARGUMENT%24%3B%24SUGR_EVENT_PARAM%24%3Beov%3D%24SUGR_EVENT_OBJ%24%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsls%3D%24APP_SUGR_LOCATION%24%3Bsvn%3D%24APP_SUGR_VERSION%24%3Bals%3D%24APP_ADT_LOCATION%24%3Bavn%3D%24APP_ADT_VERSION%24%3Bspr%3D%24SUGR_QUERY_PARAMETERS%24&rn=1503422747, line 4: NS_ERROR_FAILURE: 
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=144&advId=NWNatural_CMDAdvertisingPNW&campId=11351515&pubId=1&chanId=http://bbs.wenxuecity.com/cooking/&placementId=2027066142&impID=%3Cxid%3E&adsafe_par, line 17: SyntaxError: illegal character
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=144&advId=NWNatural_CMDAdvertisingPNW&campId=11351515&pubId=1&chanId=http://bbs.wenxuecity.com/cooking/&placementId=2027066142&impID=%3Cxid%3E&adsafe_par, line 17: SyntaxError: illegal character
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=9406&campId=1017959&pubId=33BBAE53C5AEE124553DA93012AF12DE&chanId=86c0085f337f3e118f7f3068c84086cf&placementId=540341&impId=6737586993804781644, line 17: SyntaxError: illegal character
+1503423714417	geckodriver	INFO	geckodriver 0.18.0
+1503423714444	geckodriver	INFO	Listening on 127.0.0.1:61673
+1503423715051	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[ODEBUG] [Explorer Probe] [disableSPDY]#In disableSPDY()[ODEBUG] [Explorer Probe] [disableSPDY]#Trying to get profile path from command line if existsJavaScript warning: resource://cck2/CCK2.jsm, line 1038: unreachable code after return statement
+1503423724539	Marionette	INFO	Listening on port 61677
+1503423726108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503424796160	geckodriver	INFO	geckodriver 0.18.0
+1503424796679	geckodriver	INFO	Listening on 127.0.0.1:12146
+1503424803230	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[ODEBUG] [Explorer Probe] [disableSPDY]#In disableSPDY()[ODEBUG] [Explorer Probe] [disableSPDY]#Trying to get profile path from command line if existsJavaScript warning: resource://cck2/CCK2.jsm, line 1038: unreachable code after return statement
+1503424822260	Marionette	INFO	Listening on port 12155
+1503424824739	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503425546859	geckodriver	INFO	geckodriver 0.18.0
+1503425546887	geckodriver	INFO	Listening on 127.0.0.1:12569
+1503425547544	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[ODEBUG] [Explorer Probe] [disableSPDY]#In disableSPDY()[ODEBUG] [Explorer Probe] [disableSPDY]#Trying to get profile path from command line if existsJavaScript warning: resource://cck2/CCK2.jsm, line 1038: unreachable code after return statement
+1503425555931	Marionette	INFO	Listening on port 12573
+1503425556475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503425673396	Marionette	INFO	Ceased listening
+1503425679098	geckodriver	INFO	geckodriver 0.18.0
+1503425679122	geckodriver	INFO	Listening on 127.0.0.1:12620
+1503425679817	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[ODEBUG] [Explorer Probe] [disableSPDY]#In disableSPDY()[ODEBUG] [Explorer Probe] [disableSPDY]#Trying to get profile path from command line if existsJavaScript warning: resource://cck2/CCK2.jsm, line 1038: unreachable code after return statement
+1503425688668	Marionette	INFO	Listening on port 12624
+1503425689237	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sdk.vindicosuite.com/verify/v2/verify.js?event=1&iid=SM__adt__540339451846715034257031410686628&pid=0&lid=0&clid=3&aid=0&cid=0&crid=0&pt=3&ppid=1&pioid=&pbkid=319333&pcid=1017959&plid=540339&dur=0&adw=728&adh=90&uebu=https%3A%2F%2Fx.vindicosuite.com%2Fevent%2F%3Fe%3D%24SUGR_CUSTOM_EVENT_ID%24%3Bl%3D540339%3Bb%3D4518467%3Bc%3D1017959%3Bsmuid%3D%3Bmsd%3D%3Ba%3D160220%3Bta%3D1503425703%3Btk%3D99545%3Bcr%3D1685901836%3Bad%3DCLP9IBCutQ0Y5gsgASgEMMmEATjBxAFA5b4TSNnYFlDnkD5Yw-STAmDc4wlokeolcAF4AYgBAJABAJgBAKIBEzczNjI5MDA1MzM1NjQzODYyOTmyAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgBr92e2eAr%3Bxid%3D7362900533564386299%3Bdcr%3D1%3Beav%3D%24SUGR_EVENT_ARGUMENT%24%3B%24SUGR_EVENT_PARAM%24%3Beov%3D%24SUGR_EVENT_OBJ%24%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsls%3D%24APP_SUGR_LOCATION%24%3Bsvn%3D%24APP_SUGR_VERSION%24%3Bals%3D%24APP_ADT_LOCATION%24%3Bavn%3D%24APP_ADT_VERSION%24%3Bspr%3D%24SUGR_QUERY_PARAMETERS%24&rn=1503425703, line 4: NS_ERROR_FAILURE: 
+JavaScript error: https://sdk.vindicosuite.com/verify/v2/verify.js?event=1&iid=SM__adt__54033945184671503425711-1191967877&pid=0&lid=0&clid=3&aid=0&cid=0&crid=0&pt=3&ppid=1&pioid=&pbkid=319333&pcid=1017959&plid=540339&dur=0&adw=728&adh=90&uebu=https%3A%2F%2Fx.vindicosuite.com%2Fevent%2F%3Fe%3D%24SUGR_CUSTOM_EVENT_ID%24%3Bl%3D540339%3Bb%3D4518467%3Bc%3D1017959%3Bsmuid%3Dv88UsgLz170qmA%3Bmsd%3D%3Ba%3D160220%3Bta%3D1503425711%3Btk%3D66381%3Bcr%3D3563171281%3Bad%3DCLP9IBCutQ0Y5gsgASgEMMmEATjBxAFA5b4TSNnYFlDnkD5Yw-STAmDc4wlokeolcAF4AYgBAJABAJgBAKIBEzY2Nzc3MTIwOTM0MjQ1Mjk4MTiyAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgB2p6f2eAr%3Bxid%3D6677712093424529818%3Bdcr%3D1%3Beav%3D%24SUGR_EVENT_ARGUMENT%24%3B%24SUGR_EVENT_PARAM%24%3Beov%3D%24SUGR_EVENT_OBJ%24%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsls%3D%24APP_SUGR_LOCATION%24%3Bsvn%3D%24APP_SUGR_VERSION%24%3Bals%3D%24APP_ADT_LOCATION%24%3Bavn%3D%24APP_ADT_VERSION%24%3Bspr%3D%24SUGR_QUERY_PARAMETERS%24&rn=1503425711, line 4: NS_ERROR_FAILURE: 
+JavaScript error: https://sdk.vindicosuite.com/verify/v2/verify.js?event=1&iid=SM__adt__547384467137515034257371715708399&pid=0&lid=0&clid=3&aid=0&cid=0&crid=0&pt=3&ppid=1&pioid=&pbkid=319617&pcid=1030563&plid=547384&dur=0&adw=728&adh=90&uebu=https%3A%2F%2Fx.vindicosuite.com%2Fevent%2F%3Fe%3D%24SUGR_CUSTOM_EVENT_ID%24%3Bl%3D547384%3Bb%3D4671375%3Bc%3D1030563%3Bsmuid%3Dv88UsgLz170qmA%3Bmsd%3D%3Ba%3D249722%3Bta%3D1503425737%3Btk%3D51323%3Bcr%3D2906308768%3Bad%3DCLi0IRDLzQ0Y5gsgASgEMMmEATiexQFAgcETSKviFlCj8z5Yj4-dAmD6ng9o-qMncAF4AYgBAJABAJgBAKIBEzE1Njk2Mjg0NzA3NDE2ODM1ODiyAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgBhOWg2eAr%3Bxid%3D1569628470741683588%3Bdcr%3D1%3Beav%3D%24SUGR_EVENT_ARGUMENT%24%3B%24SUGR_EVENT_PARAM%24%3Beov%3D%24SUGR_EVENT_OBJ%24%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsls%3D%24APP_SUGR_LOCATION%24%3Bsvn%3D%24APP_SUGR_VERSION%24%3Bals%3D%24APP_ADT_LOCATION%24%3Bavn%3D%24APP_ADT_VERSION%24%3Bspr%3D%24SUGR_QUERY_PARAMETERS%24&rn=1503425737, line 4: NS_ERROR_FAILURE: 
+JavaScript error: https://sdk.vindicosuite.com/verify/v2/verify.js?event=1&iid=SM__adt__547384467137515034257441991560900&pid=0&lid=0&clid=3&aid=0&cid=0&crid=0&pt=3&ppid=1&pioid=&pbkid=319617&pcid=1030563&plid=547384&dur=0&adw=728&adh=90&uebu=https%3A%2F%2Fx.vindicosuite.com%2Fevent%2F%3Fe%3D%24SUGR_CUSTOM_EVENT_ID%24%3Bl%3D547384%3Bb%3D4671375%3Bc%3D1030563%3Bsmuid%3Dv88UsgLz170qmA%3Bmsd%3D%3Ba%3D249722%3Bta%3D1503425744%3Btk%3D53263%3Bcr%3D2693859736%3Bad%3DCLi0IRDLzQ0Y5gsgASgEMMmEATiexQFAgcETSKviFlCj8z5Yj4-dAmD6ng9o-qMncAF4AYgBAJABAJgBAKIBEzM4Njk0NTQ0NTE2NTIwNTQ5OTmyAQhDUkVBVElWRbgBAcABAMgBANABANgBAOgB25-h2eAr%3Bxid%3D3869454451652054999%3Bdcr%3D1%3Beav%3D%24SUGR_EVENT_ARGUMENT%24%3B%24SUGR_EVENT_PARAM%24%3Beov%3D%24SUGR_EVENT_OBJ%24%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsls%3D%24APP_SUGR_LOCATION%24%3Bsvn%3D%24APP_SUGR_VERSION%24%3Bals%3D%24APP_ADT_LOCATION%24%3Bavn%3D%24APP_ADT_VERSION%24%3Bspr%3D%24SUGR_QUERY_PARAMETERS%24&rn=1503425744, line 4: NS_ERROR_FAILURE: 
+1503462375016	geckodriver	INFO	geckodriver 0.18.0
+1503462375046	geckodriver	INFO	Listening on 127.0.0.1:40817
+1503462375616	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[ODEBUG] [Explorer Probe] [disableSPDY]#In disableSPDY()[ODEBUG] [Explorer Probe] [disableSPDY]#Trying to get profile path from command line if existsJavaScript warning: resource://cck2/CCK2.jsm, line 1038: unreachable code after return statement
+1503462381588	Marionette	INFO	Listening on port 40821
+1503462382073	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503813338505	geckodriver	INFO	geckodriver 0.18.0
+1503813338529	geckodriver	INFO	Listening on 127.0.0.1:35706
+1503813339090	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1038: unreachable code after return statement
+1503813340195	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1503813340831	Marionette	INFO	Enabled via --marionette
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this.panel.openPopup is not a function
+Full stack: PopupNotifications_showPanel/<@resource://gre/modules/PopupNotifications.jsm:1026:7
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+observe@resource://gre/modules/AsyncShutdown.jsm:531:9
+
+*************************
+[Parent 12676] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19184] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19184] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12676] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503813345377	Marionette	INFO	Listening on port 35712
+[Child 14540] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14540] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503813345385	Marionette	INFO	Listening on port 35712
+1503813345529	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1503813371924	geckodriver	INFO	geckodriver 0.18.0
+1503813371977	geckodriver	INFO	Listening on 127.0.0.1:35768
+1503813372511	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1038: unreachable code after return statement
+1503813373552	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1503813374301	Marionette	INFO	Enabled via --marionette
+[GPU 18232] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19012] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503813378582	Marionette	INFO	Listening on port 35772
+[Child 18568] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18568] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503813378956	Marionette	INFO	Listening on port 35772
+1503813380007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503813380078	Marionette	DEBUG	loaded listener.js
+[Parent 19012] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17900] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17900] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1503813403313	geckodriver	INFO	geckodriver 0.18.0
+1503813403334	geckodriver	INFO	Listening on 127.0.0.1:35852
+1503813403907	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1038: unreachable code after return statement
+1503813404763	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1503813405409	Marionette	INFO	Enabled via --marionette
+1503813409028	Marionette	INFO	Listening on port 35856
+1503813409054	Marionette	INFO	Listening on port 35856
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this.panel.openPopup is not a function
+Full stack: PopupNotifications_showPanel/<@resource://gre/modules/PopupNotifications.jsm:1026:7
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+observe@resource://gre/modules/AsyncShutdown.jsm:531:9
+
+*************************
+1503813409610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503813409681	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1503813530684	geckodriver	INFO	geckodriver 0.18.0
+1503813530704	geckodriver	INFO	Listening on 127.0.0.1:35960
+1503813531289	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript warning: resource://cck2/CCK2.jsm, line 1038: unreachable code after return statement
+1503813533173	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1503813533818	Marionette	INFO	Enabled via --marionette
+[Parent 15412] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503813537513	Marionette	INFO	Listening on port 35964
+[Child 19160] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19160] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503813537556	Marionette	INFO	Listening on port 35964
+1503813537742	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503813537821	Marionette	DEBUG	loaded listener.js
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 17248] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17248] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 17496] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1505951290029	geckodriver	INFO	geckodriver 0.18.0
+1505951290063	geckodriver	INFO	Listening on 127.0.0.1:49636
+1505951290206	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505951292539	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505951293636	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 19476] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 19132] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505951297900	Marionette	INFO	Listening on port 49640
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14004] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14004] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505951297941	Marionette	INFO	Listening on port 49640
+1505951298942	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505951299018	Marionette	DEBUG	loaded listener.js
+1505951299196	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505951299638	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505951299638	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505951303772	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=1"
+1505951304292	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=1"
+1505951304296	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=1"
+1505951304338	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=1"
+1505951304838	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=1"
+1505951304960	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=1"
+1505951305077	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/html/r20170913/r20170110/zrt_lookup.html#"
+1505951305099	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/html/r20170913/r20170110/zrt_lookup.html#"
+1505951305171	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=1"
+1505951305177	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=1"
+1505951305455	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=1"
+1505951305456	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=1"
+1505951305459	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=1"
+1505951307138	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://s.amazon-adsystem.com/iu3?cm3ppd=1&d=dtb-pub&csif=t&dl=simplifi"
+1505951307862	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://s.amazon-adsystem.com/v3/pr?exlist=simplifi&fv=1.0&a=cm&cm3ppd=1"
+1505951308572	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951304&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D1&wgl=1&dt=1505951303235&bpp=23&bdt=3598&fdt=544&idt=853&shv=r20170913&cbv=r20170110&saldr=aa&correlator=6213781862426&frm=20&ga_vid=1321436709.1505951304&ga_sid=1505951304&ga_hid=1217696177&ga_fc=0&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=1&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=156549042&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&xpc=41yzVgM2Gd&p=http%3A//bbs.wenxuecity.com&dtd=976"
+1505951308698	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=160x600&output=html&h=600&slotname=7152851202&adk=455031403&adf=3649217647&w=160&lmt=1505951305&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D1&wgl=1&dt=1505951304817&bpp=8&bdt=5180&fdt=24&idt=387&shv=r20170913&cbv=r20170110&saldr=aa&prev_fmts=728x90&correlator=6213781862426&frm=20&ga_vid=1321436709.1505951304&ga_sid=1505951304&ga_hid=1217696177&ga_fc=0&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=1&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=988&ady=672&biw=1249&bih=718&abxe=1&eid=156549042&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=u&pfx=0&fu=16&bc=1&ifi=2&xpc=mnhRVbnxyL&p=http%3A//bbs.wenxuecity.com&dtd=534"
+1505951308725	Marionette	DEBUG	Received DOM event "pageshow" for "http://s.amazon-adsystem.com/ecm3?ex=simplifi&id=3C5A17C64CFEC2591446942A02D4E579"
+1505951308727	Marionette	DEBUG	Received DOM event "pageshow" for "http://s.amazon-adsystem.com/v3/pr?exlist=simplifi&fv=1.0&a=cm&cm3ppd=1"
+1505951308728	Marionette	DEBUG	Received DOM event "pageshow" for "http://s.amazon-adsystem.com/iu3?cm3ppd=1&d=dtb-pub&csif=t&dl=simplifi"
+1505951308782	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+1505951308785	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+1505951308810	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951304&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D1&wgl=1&dt=1505951303235&bpp=23&bdt=3598&fdt=544&idt=853&shv=r20170913&cbv=r20170110&saldr=aa&correlator=6213781862426&frm=20&ga_vid=1321436709.1505951304&ga_sid=1505951304&ga_hid=1217696177&ga_fc=0&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=1&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=156549042&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&xpc=41yzVgM2Gd&p=http%3A//bbs.wenxuecity.com&dtd=976"
+1505951308830	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951304&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D1&wgl=1&dt=1505951303235&bpp=23&bdt=3598&fdt=544&idt=853&shv=r20170913&cbv=r20170110&saldr=aa&correlator=6213781862426&frm=20&ga_vid=1321436709.1505951304&ga_sid=1505951304&ga_hid=1217696177&ga_fc=0&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=1&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=156549042&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&xpc=41yzVgM2Gd&p=http%3A//bbs.wenxuecity.com&dtd=976"
+1505951308834	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=1"
+1505951308835	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+1505951308839	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+1505951308857	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=160x600&output=html&h=600&slotname=7152851202&adk=455031403&adf=3649217647&w=160&lmt=1505951305&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D1&wgl=1&dt=1505951304817&bpp=8&bdt=5180&fdt=24&idt=387&shv=r20170913&cbv=r20170110&saldr=aa&prev_fmts=728x90&correlator=6213781862426&frm=20&ga_vid=1321436709.1505951304&ga_sid=1505951304&ga_hid=1217696177&ga_fc=0&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=1&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=988&ady=672&biw=1249&bih=718&abxe=1&eid=156549042&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=u&pfx=0&fu=16&bc=1&ifi=2&xpc=mnhRVbnxyL&p=http%3A//bbs.wenxuecity.com&dtd=534"
+1505951308873	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=160x600&output=html&h=600&slotname=7152851202&adk=455031403&adf=3649217647&w=160&lmt=1505951305&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D1&wgl=1&dt=1505951304817&bpp=8&bdt=5180&fdt=24&idt=387&shv=r20170913&cbv=r20170110&saldr=aa&prev_fmts=728x90&correlator=6213781862426&frm=20&ga_vid=1321436709.1505951304&ga_sid=1505951304&ga_hid=1217696177&ga_fc=0&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=1&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=988&ady=672&biw=1249&bih=718&abxe=1&eid=156549042&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=u&pfx=0&fu=16&bc=1&ifi=2&xpc=mnhRVbnxyL&p=http%3A//bbs.wenxuecity.com&dtd=534"
+1505951308876	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=1"
+1505951308881	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=1"
+1505951310384	Marionette	DEBUG	Received DOM event "beforeunload" for "http://bbs.wenxuecity.com/cooking/?page=1"
+1505951310570	Marionette	DEBUG	Received DOM event "pagehide" for "http://bbs.wenxuecity.com/cooking/?page=1"
+1505951310575	Marionette	DEBUG	Received DOM event "unload" for "http://bbs.wenxuecity.com/cooking/?page=1"
+1505951310787	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1505951310788	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1505951310789	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1505951310789	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1505951310790	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1505951310790	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1505951310791	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1505951310791	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967333"
+1505951310792	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1505951310793	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1505951310793	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1505951310794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1505951310794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1505951310795	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1505951310796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1505951311596	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=2"
+1505951311662	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/html/r20170913/r20170110/zrt_lookup.html#"
+1505951311666	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/html/r20170913/r20170110/zrt_lookup.html#"
+1505951311781	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=2"
+1505951311782	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=2"
+1505951311784	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=2"
+1505951311836	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=2"
+1505951311911	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=2"
+1505951312128	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=2"
+1505951312136	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=2"
+1505951312301	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=2"
+1505951312302	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=2"
+1505951312307	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=2"
+1505951312740	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951311&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D2&wgl=1&dt=1505951311572&bpp=16&bdt=1003&fdt=28&idt=125&shv=r20170913&cbv=r20170110&saldr=aa&correlator=6782368000345&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=920843093&ga_fc=1&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=2&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=156549042%2C389613000&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=8LlNdLa1MV&p=http%3A//bbs.wenxuecity.com&dtd=180"
+1505951313218	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951311&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D2&wgl=1&dt=1505951311572&bpp=16&bdt=1003&fdt=28&idt=125&shv=r20170913&cbv=r20170110&saldr=aa&correlator=6782368000345&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=920843093&ga_fc=1&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=2&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=156549042%2C389613000&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=8LlNdLa1MV&p=http%3A//bbs.wenxuecity.com&dtd=180"
+1505951313388	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951311&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D2&wgl=1&dt=1505951311572&bpp=16&bdt=1003&fdt=28&idt=125&shv=r20170913&cbv=r20170110&saldr=aa&correlator=6782368000345&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=920843093&ga_fc=1&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=2&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=156549042%2C389613000&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=8LlNdLa1MV&p=http%3A//bbs.wenxuecity.com&dtd=180"
+1505951313403	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951311&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D2&wgl=1&dt=1505951311572&bpp=16&bdt=1003&fdt=28&idt=125&shv=r20170913&cbv=r20170110&saldr=aa&correlator=6782368000345&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=920843093&ga_fc=1&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=2&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=156549042%2C389613000&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=8LlNdLa1MV&p=http%3A//bbs.wenxuecity.com&dtd=180"
+1505951313406	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=2"
+1505951313449	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951311&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D2&wgl=1&dt=1505951311572&bpp=16&bdt=1003&fdt=28&idt=125&shv=r20170913&cbv=r20170110&saldr=aa&correlator=6782368000345&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=920843093&ga_fc=1&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=2&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=156549042%2C389613000&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=8LlNdLa1MV&p=http%3A//bbs.wenxuecity.com&dtd=180"
+1505951313452	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951311&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D2&wgl=1&dt=1505951311572&bpp=16&bdt=1003&fdt=28&idt=125&shv=r20170913&cbv=r20170110&saldr=aa&correlator=6782368000345&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=920843093&ga_fc=1&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=2&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=156549042%2C389613000&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=8LlNdLa1MV&p=http%3A//bbs.wenxuecity.com&dtd=180"
+1505951313657	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967363"
+1505951314096	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=160x600&output=html&h=600&slotname=7152851202&adk=455031403&adf=3649217647&w=160&lmt=1505951312&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D2&wgl=1&dt=1505951311818&bpp=8&bdt=1249&fdt=21&idt=342&shv=r20170913&cbv=r20170110&saldr=aa&prev_fmts=728x90&correlator=6782368000345&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=920843093&ga_fc=1&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=2&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=988&ady=672&biw=1249&bih=718&abxe=1&eid=156549042%2C389613000&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=2&xpc=iek6gPhccg&p=http%3A//bbs.wenxuecity.com&dtd=429"
+1505951314137	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pagead2.googlesyndication.com/pagead/s/cookie_push.html#aHR0cHM6Ly9zc3VtLXNlYy5jYXNhbGVtZWRpYS5jb20vdXNlcm1hdGNocmVkaXI_cz0xODQwMjMmY2I9aHR0cHMlM0ElMkYlMkZjbS5nLmRvdWJsZWNsaWNrLm5ldCUyRnBpeGVsJTNGZ29vZ2xlX25pZCUzRGluZGV4JTI2Z29vZ2xlX2htJTNEJmdvb2dsZV9naWQ9Q0FFU0VKdncxaWd2TDVBVzlqLS1oWm93QkFvJmdvb2dsZV9jdmVyPTEmZ29vZ2xlX3B1c2g9QUhORjEzS2RXQWR6bHliN3VMMFJHdjVvNWM1dmxobllfTjdvWExTNF9vUjBScEJVMkE=,aHR0cHM6Ly9jbS5nLmRvdWJsZWNsaWNrLm5ldC9waXhlbC9hdHRyP2Q9QUhORjEzSkRqV0tlbFRudFlNb21oZGpBYnBTRXdvWXl2S1NI"
+1505951314238	Marionette	DEBUG	Received DOM event "pageshow" for "https://pagead2.googlesyndication.com/pagead/s/cookie_push.html#aHR0cHM6Ly9zc3VtLXNlYy5jYXNhbGVtZWRpYS5jb20vdXNlcm1hdGNocmVkaXI_cz0xODQwMjMmY2I9aHR0cHMlM0ElMkYlMkZjbS5nLmRvdWJsZWNsaWNrLm5ldCUyRnBpeGVsJTNGZ29vZ2xlX25pZCUzRGluZGV4JTI2Z29vZ2xlX2htJTNEJmdvb2dsZV9naWQ9Q0FFU0VKdncxaWd2TDVBVzlqLS1oWm93QkFvJmdvb2dsZV9jdmVyPTEmZ29vZ2xlX3B1c2g9QUhORjEzS2RXQWR6bHliN3VMMFJHdjVvNWM1dmxobllfTjdvWExTNF9vUjBScEJVMkE=,aHR0cHM6Ly9jbS5nLmRvdWJsZWNsaWNrLm5ldC9waXhlbC9hdHRyP2Q9QUhORjEzSkRqV0tlbFRudFlNb21oZGpBYnBTRXdvWXl2S1NI"
+1505951314260	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=160x600&output=html&h=600&slotname=7152851202&adk=455031403&adf=3649217647&w=160&lmt=1505951312&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D2&wgl=1&dt=1505951311818&bpp=8&bdt=1249&fdt=21&idt=342&shv=r20170913&cbv=r20170110&saldr=aa&prev_fmts=728x90&correlator=6782368000345&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=920843093&ga_fc=1&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=2&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=988&ady=672&biw=1249&bih=718&abxe=1&eid=156549042%2C389613000&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=2&xpc=iek6gPhccg&p=http%3A//bbs.wenxuecity.com&dtd=429"
+1505951314276	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=160x600&output=html&h=600&slotname=7152851202&adk=455031403&adf=3649217647&w=160&lmt=1505951312&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D2&wgl=1&dt=1505951311818&bpp=8&bdt=1249&fdt=21&idt=342&shv=r20170913&cbv=r20170110&saldr=aa&prev_fmts=728x90&correlator=6782368000345&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=920843093&ga_fc=1&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=2&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=988&ady=672&biw=1249&bih=718&abxe=1&eid=156549042%2C389613000&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=2&xpc=iek6gPhccg&p=http%3A//bbs.wenxuecity.com&dtd=429"
+1505951314279	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=2"
+1505951314285	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=2"
+1505951314820	Marionette	DEBUG	Received DOM event "beforeunload" for "http://bbs.wenxuecity.com/cooking/?page=2"
+1505951315065	Marionette	DEBUG	Received DOM event "pagehide" for "http://bbs.wenxuecity.com/cooking/?page=2"
+1505951315070	Marionette	DEBUG	Received DOM event "unload" for "http://bbs.wenxuecity.com/cooking/?page=2"
+1505951315233	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967344"
+1505951315234	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967359"
+1505951315235	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967361"
+1505951315235	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967346"
+1505951315236	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967352"
+1505951315236	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967342"
+1505951315237	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967366"
+1505951315237	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967368"
+1505951315238	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967354"
+1505951315238	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967350"
+1505951315239	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967347"
+1505951315239	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967355"
+1505951315905	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=3"
+1505951315992	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/html/r20170913/r20170110/zrt_lookup.html#"
+1505951315994	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/html/r20170913/r20170110/zrt_lookup.html#"
+1505951316173	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=3"
+1505951316193	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=3"
+1505951316194	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=3"
+1505951316196	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=3"
+1505951316257	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=3"
+1505951316341	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=3"
+1505951316347	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=3"
+1505951316692	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=3"
+1505951316703	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=3"
+1505951316706	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=3"
+1505951317309	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951316&loeid=156549052%2C453848104&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D3&wgl=1&dt=1505951315878&bpp=14&bdt=814&fdt=31&idt=141&shv=r20170913&cbv=r20170110&saldr=aa&correlator=2152182708401&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=460753702&ga_fc=1&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=3&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=156549042&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=j5bX7jGhXg&p=http%3A//bbs.wenxuecity.com&dtd=231"
+1505951317479	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pagead2.googlesyndication.com/pagead/s/cookie_push.html#aHR0cHM6Ly9zc3VtLXNlYy5jYXNhbGVtZWRpYS5jb20vdXNlcm1hdGNocmVkaXI_cz0xODQwMjMmY2I9aHR0cHMlM0ElMkYlMkZjbS5nLmRvdWJsZWNsaWNrLm5ldCUyRnBpeGVsJTNGZ29vZ2xlX25pZCUzRGluZGV4JTI2Z29vZ2xlX2htJTNEJmdvb2dsZV9naWQ9Q0FFU0VKdncxaWd2TDVBVzlqLS1oWm93QkFvJmdvb2dsZV9jdmVyPTEmZ29vZ2xlX3B1c2g9QUhORjEzSmF6WVcxRGUxTW5mS2Z2R1Fsa0I4aFBkbGRSOTFvdVJOdGlYMWtXSXda,aHR0cHM6Ly9jbS5nLmRvdWJsZWNsaWNrLm5ldC9waXhlbC9hdHRyP2Q9QUhORjEzSzJncEZtRnRqdmxlVENXeFN4TVRkRTd1MUZuZkw0"
+1505951317727	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=160x600&output=html&h=600&slotname=7152851202&adk=455031403&adf=3649217647&w=160&lmt=1505951316&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D3&wgl=1&dt=1505951316154&bpp=8&bdt=1091&fdt=22&idt=397&shv=r20170913&cbv=r20170110&saldr=aa&prev_fmts=728x90&correlator=2152182708401&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=460753702&ga_fc=1&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=3&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=988&ady=672&biw=1249&bih=718&abxe=1&eid=156549042%2C453848104&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=2&xpc=HRZwJsOgID&p=http%3A//bbs.wenxuecity.com&dtd=486"
+1505951317760	Marionette	DEBUG	Received DOM event "pageshow" for "https://pagead2.googlesyndication.com/pagead/s/cookie_push.html#aHR0cHM6Ly9zc3VtLXNlYy5jYXNhbGVtZWRpYS5jb20vdXNlcm1hdGNocmVkaXI_cz0xODQwMjMmY2I9aHR0cHMlM0ElMkYlMkZjbS5nLmRvdWJsZWNsaWNrLm5ldCUyRnBpeGVsJTNGZ29vZ2xlX25pZCUzRGluZGV4JTI2Z29vZ2xlX2htJTNEJmdvb2dsZV9naWQ9Q0FFU0VKdncxaWd2TDVBVzlqLS1oWm93QkFvJmdvb2dsZV9jdmVyPTEmZ29vZ2xlX3B1c2g9QUhORjEzSmF6WVcxRGUxTW5mS2Z2R1Fsa0I4aFBkbGRSOTFvdVJOdGlYMWtXSXda,aHR0cHM6Ly9jbS5nLmRvdWJsZWNsaWNrLm5ldC9waXhlbC9hdHRyP2Q9QUhORjEzSzJncEZtRnRqdmxlVENXeFN4TVRkRTd1MUZuZkw0"
+1505951317783	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951316&loeid=156549052%2C453848104&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D3&wgl=1&dt=1505951315878&bpp=14&bdt=814&fdt=31&idt=141&shv=r20170913&cbv=r20170110&saldr=aa&correlator=2152182708401&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=460753702&ga_fc=1&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=3&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=156549042&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=j5bX7jGhXg&p=http%3A//bbs.wenxuecity.com&dtd=231"
+1505951317811	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951316&loeid=156549052%2C453848104&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D3&wgl=1&dt=1505951315878&bpp=14&bdt=814&fdt=31&idt=141&shv=r20170913&cbv=r20170110&saldr=aa&correlator=2152182708401&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=460753702&ga_fc=1&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=3&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=156549042&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=j5bX7jGhXg&p=http%3A//bbs.wenxuecity.com&dtd=231"
+1505951317816	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=3"
+1505951317852	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951316&loeid=156549052%2C453848104&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D3&wgl=1&dt=1505951315878&bpp=14&bdt=814&fdt=31&idt=141&shv=r20170913&cbv=r20170110&saldr=aa&correlator=2152182708401&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=460753702&ga_fc=1&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=3&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=156549042&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=j5bX7jGhXg&p=http%3A//bbs.wenxuecity.com&dtd=231"
+1505951317856	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951316&loeid=156549052%2C453848104&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D3&wgl=1&dt=1505951315878&bpp=14&bdt=814&fdt=31&idt=141&shv=r20170913&cbv=r20170110&saldr=aa&correlator=2152182708401&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=460753702&ga_fc=1&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=3&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=156549042&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=j5bX7jGhXg&p=http%3A//bbs.wenxuecity.com&dtd=231"
+1505951317861	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=160x600&output=html&h=600&slotname=7152851202&adk=455031403&adf=3649217647&w=160&lmt=1505951316&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D3&wgl=1&dt=1505951316154&bpp=8&bdt=1091&fdt=22&idt=397&shv=r20170913&cbv=r20170110&saldr=aa&prev_fmts=728x90&correlator=2152182708401&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=460753702&ga_fc=1&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=3&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=988&ady=672&biw=1249&bih=718&abxe=1&eid=156549042%2C453848104&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=2&xpc=HRZwJsOgID&p=http%3A//bbs.wenxuecity.com&dtd=486"
+1505951317899	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=160x600&output=html&h=600&slotname=7152851202&adk=455031403&adf=3649217647&w=160&lmt=1505951316&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D3&wgl=1&dt=1505951316154&bpp=8&bdt=1091&fdt=22&idt=397&shv=r20170913&cbv=r20170110&saldr=aa&prev_fmts=728x90&correlator=2152182708401&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=460753702&ga_fc=1&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=3&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=988&ady=672&biw=1249&bih=718&abxe=1&eid=156549042%2C453848104&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=2&xpc=HRZwJsOgID&p=http%3A//bbs.wenxuecity.com&dtd=486"
+1505951317921	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=160x600&output=html&h=600&slotname=7152851202&adk=455031403&adf=3649217647&w=160&lmt=1505951316&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D3&wgl=1&dt=1505951316154&bpp=8&bdt=1091&fdt=22&idt=397&shv=r20170913&cbv=r20170110&saldr=aa&prev_fmts=728x90&correlator=2152182708401&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=460753702&ga_fc=1&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=3&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=988&ady=672&biw=1249&bih=718&abxe=1&eid=156549042%2C453848104&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=2&xpc=HRZwJsOgID&p=http%3A//bbs.wenxuecity.com&dtd=486"
+1505951317924	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=3"
+1505951317934	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=3"
+1505951318610	Marionette	DEBUG	Received DOM event "beforeunload" for "http://bbs.wenxuecity.com/cooking/?page=3"
+1505951318802	Marionette	DEBUG	Received DOM event "pagehide" for "http://bbs.wenxuecity.com/cooking/?page=3"
+1505951318807	Marionette	DEBUG	Received DOM event "unload" for "http://bbs.wenxuecity.com/cooking/?page=3"
+1505951319007	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967375"
+1505951319008	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967390"
+1505951319009	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967395"
+1505951319012	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967377"
+1505951319014	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967383"
+1505951319019	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967373"
+1505951319019	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967393"
+1505951319019	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967397"
+1505951319021	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967385"
+1505951319022	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967381"
+1505951319024	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967378"
+1505951319024	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967386"
+1505951319745	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=4"
+1505951319748	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=4"
+1505951320019	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=4"
+1505951320144	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=4"
+1505951320145	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=4"
+1505951320149	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=4"
+1505951320159	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=4"
+1505951320201	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=4"
+1505951320203	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=4"
+1505951320238	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=4"
+1505951320242	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=4"
+1505951320244	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=4"
+1505951320245	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/html/r20170913/r20170110/zrt_lookup.html#"
+1505951320248	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/html/r20170913/r20170110/zrt_lookup.html#"
+1505951320861	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951319&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D4&wgl=1&dt=1505951319675&bpp=11&bdt=874&fdt=227&idt=243&shv=r20170913&cbv=r20170110&saldr=aa&correlator=2096748092277&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=1678309948&ga_fc=1&pv=2&icsg=0&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=4&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=21060868%2C62710010%2C62710013%2C156549042&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=WInTm9wi9R&p=http%3A//bbs.wenxuecity.com&dtd=295"
+1505951321219	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=160x600&output=html&h=600&slotname=7152851202&adk=455031403&adf=3649217647&w=160&lmt=1505951320&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D4&wgl=1&dt=1505951319993&bpp=17&bdt=1192&fdt=28&idt=33&shv=r20170913&cbv=r20170110&saldr=aa&prev_fmts=728x90&correlator=2096748092277&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=1678309948&ga_fc=1&pv=1&icsg=0&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=4&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=988&ady=672&biw=1249&bih=718&abxe=1&eid=21060868%2C62710010%2C62710013%2C156549042&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=2&xpc=DMuYoB7Cxc&p=http%3A//bbs.wenxuecity.com&dtd=51"
+1505951321528	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pagead2.googlesyndication.com/pagead/s/cookie_push.html#aHR0cHM6Ly9zc3VtLXNlYy5jYXNhbGVtZWRpYS5jb20vdXNlcm1hdGNocmVkaXI_cz0xODQwMjMmY2I9aHR0cHMlM0ElMkYlMkZjbS5nLmRvdWJsZWNsaWNrLm5ldCUyRnBpeGVsJTNGZ29vZ2xlX25pZCUzRGluZGV4JTI2Z29vZ2xlX2htJTNEJmdvb2dsZV9naWQ9Q0FFU0VKdncxaWd2TDVBVzlqLS1oWm93QkFvJmdvb2dsZV9jdmVyPTEmZ29vZ2xlX3B1c2g9QUhORjEzSjlEU2NGWDVZNU96TnhHaWZMRkYwOTBwNE9yY0tkanFEa2xwNXNTU2Ra,aHR0cHM6Ly9jbS5nLmRvdWJsZWNsaWNrLm5ldC9waXhlbC9hdHRyP2Q9QUhORjEzSllvSlZmbXNUbGFoYXVoQkJwZWNjOVd6ZHhfMUFZ"
+1505951321541	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pagead2.googlesyndication.com/pagead/s/cookie_push.html#aHR0cHM6Ly9zc3VtLXNlYy5jYXNhbGVtZWRpYS5jb20vdXNlcm1hdGNocmVkaXI_cz0xODQwMjMmY2I9aHR0cHMlM0ElMkYlMkZjbS5nLmRvdWJsZWNsaWNrLm5ldCUyRnBpeGVsJTNGZ29vZ2xlX25pZCUzRGluZGV4JTI2Z29vZ2xlX2htJTNEJmdvb2dsZV9naWQ9Q0FFU0VKdncxaWd2TDVBVzlqLS1oWm93QkFvJmdvb2dsZV9jdmVyPTEmZ29vZ2xlX3B1c2g9QUhORjEzTFBLUEl4RlVITFBuSlEwUTNlQk1naTA4MjMwZ0UzcU1lcnk3T2ZVb1g5WkE=,aHR0cHM6Ly9jbS5nLmRvdWJsZWNsaWNrLm5ldC9waXhlbC9hdHRyP2Q9QUhORjEzSjExYXltTDBqNXQxQ19NUnhOU3lCMVJIaU13MS04"
+1505951321609	Marionette	DEBUG	Received DOM event "pageshow" for "https://pagead2.googlesyndication.com/pagead/s/cookie_push.html#aHR0cHM6Ly9zc3VtLXNlYy5jYXNhbGVtZWRpYS5jb20vdXNlcm1hdGNocmVkaXI_cz0xODQwMjMmY2I9aHR0cHMlM0ElMkYlMkZjbS5nLmRvdWJsZWNsaWNrLm5ldCUyRnBpeGVsJTNGZ29vZ2xlX25pZCUzRGluZGV4JTI2Z29vZ2xlX2htJTNEJmdvb2dsZV9naWQ9Q0FFU0VKdncxaWd2TDVBVzlqLS1oWm93QkFvJmdvb2dsZV9jdmVyPTEmZ29vZ2xlX3B1c2g9QUhORjEzSjlEU2NGWDVZNU96TnhHaWZMRkYwOTBwNE9yY0tkanFEa2xwNXNTU2Ra,aHR0cHM6Ly9jbS5nLmRvdWJsZWNsaWNrLm5ldC9waXhlbC9hdHRyP2Q9QUhORjEzSllvSlZmbXNUbGFoYXVoQkJwZWNjOVd6ZHhfMUFZ"
+1505951321624	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951319&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D4&wgl=1&dt=1505951319675&bpp=11&bdt=874&fdt=227&idt=243&shv=r20170913&cbv=r20170110&saldr=aa&correlator=2096748092277&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=1678309948&ga_fc=1&pv=2&icsg=0&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=4&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=21060868%2C62710010%2C62710013%2C156549042&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=WInTm9wi9R&p=http%3A//bbs.wenxuecity.com&dtd=295"
+1505951321639	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951319&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D4&wgl=1&dt=1505951319675&bpp=11&bdt=874&fdt=227&idt=243&shv=r20170913&cbv=r20170110&saldr=aa&correlator=2096748092277&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=1678309948&ga_fc=1&pv=2&icsg=0&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=4&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=21060868%2C62710010%2C62710013%2C156549042&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=WInTm9wi9R&p=http%3A//bbs.wenxuecity.com&dtd=295"
+1505951321641	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=4"
+1505951321658	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951319&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D4&wgl=1&dt=1505951319675&bpp=11&bdt=874&fdt=227&idt=243&shv=r20170913&cbv=r20170110&saldr=aa&correlator=2096748092277&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=1678309948&ga_fc=1&pv=2&icsg=0&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=4&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=21060868%2C62710010%2C62710013%2C156549042&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=WInTm9wi9R&p=http%3A//bbs.wenxuecity.com&dtd=295"
+1505951321786	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967430"
+1505951321790	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951319&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D4&wgl=1&dt=1505951319675&bpp=11&bdt=874&fdt=227&idt=243&shv=r20170913&cbv=r20170110&saldr=aa&correlator=2096748092277&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=1678309948&ga_fc=1&pv=2&icsg=0&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=4&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=21060868%2C62710010%2C62710013%2C156549042&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=WInTm9wi9R&p=http%3A//bbs.wenxuecity.com&dtd=295"
+1505951321798	Marionette	DEBUG	Received DOM event "pageshow" for "https://pagead2.googlesyndication.com/pagead/s/cookie_push.html#aHR0cHM6Ly9zc3VtLXNlYy5jYXNhbGVtZWRpYS5jb20vdXNlcm1hdGNocmVkaXI_cz0xODQwMjMmY2I9aHR0cHMlM0ElMkYlMkZjbS5nLmRvdWJsZWNsaWNrLm5ldCUyRnBpeGVsJTNGZ29vZ2xlX25pZCUzRGluZGV4JTI2Z29vZ2xlX2htJTNEJmdvb2dsZV9naWQ9Q0FFU0VKdncxaWd2TDVBVzlqLS1oWm93QkFvJmdvb2dsZV9jdmVyPTEmZ29vZ2xlX3B1c2g9QUhORjEzTFBLUEl4RlVITFBuSlEwUTNlQk1naTA4MjMwZ0UzcU1lcnk3T2ZVb1g5WkE=,aHR0cHM6Ly9jbS5nLmRvdWJsZWNsaWNrLm5ldC9waXhlbC9hdHRyP2Q9QUhORjEzSjExYXltTDBqNXQxQ19NUnhOU3lCMVJIaU13MS04"
+1505951321818	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=160x600&output=html&h=600&slotname=7152851202&adk=455031403&adf=3649217647&w=160&lmt=1505951320&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D4&wgl=1&dt=1505951319993&bpp=17&bdt=1192&fdt=28&idt=33&shv=r20170913&cbv=r20170110&saldr=aa&prev_fmts=728x90&correlator=2096748092277&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=1678309948&ga_fc=1&pv=1&icsg=0&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=4&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=988&ady=672&biw=1249&bih=718&abxe=1&eid=21060868%2C62710010%2C62710013%2C156549042&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=2&xpc=DMuYoB7Cxc&p=http%3A//bbs.wenxuecity.com&dtd=51"
+1505951321834	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=160x600&output=html&h=600&slotname=7152851202&adk=455031403&adf=3649217647&w=160&lmt=1505951320&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D4&wgl=1&dt=1505951319993&bpp=17&bdt=1192&fdt=28&idt=33&shv=r20170913&cbv=r20170110&saldr=aa&prev_fmts=728x90&correlator=2096748092277&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=1678309948&ga_fc=1&pv=1&icsg=0&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=4&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=988&ady=672&biw=1249&bih=718&abxe=1&eid=21060868%2C62710010%2C62710013%2C156549042&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=2&xpc=DMuYoB7Cxc&p=http%3A//bbs.wenxuecity.com&dtd=51"
+1505951321836	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=4"
+1505951321839	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=4"
+1505951322432	Marionette	DEBUG	Received DOM event "beforeunload" for "http://bbs.wenxuecity.com/cooking/?page=4"
+1505951322657	Marionette	DEBUG	Received DOM event "pagehide" for "http://bbs.wenxuecity.com/cooking/?page=4"
+1505951322669	Marionette	DEBUG	Received DOM event "unload" for "http://bbs.wenxuecity.com/cooking/?page=4"
+1505951322953	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967407"
+1505951322954	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967424"
+1505951322954	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967428"
+1505951322956	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967409"
+1505951322957	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967404"
+1505951322958	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967425"
+1505951322958	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967432"
+1505951322959	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967415"
+1505951322960	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967411"
+1505951322960	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967410"
+1505951322961	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967416"
+1505951322961	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967420"
+1505951323871	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=5"
+1505951323968	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/html/r20170913/r20170110/zrt_lookup.html#"
+1505951323971	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/html/r20170913/r20170110/zrt_lookup.html#"
+1505951324132	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=5"
+1505951324144	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=5"
+1505951324145	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=5"
+1505951324147	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=5"
+1505951324241	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=5"
+1505951324339	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=5"
+1505951324341	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=5"
+1505951324489	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=5"
+1505951324490	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=5"
+1505951324491	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=5"
+1505951324692	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951324&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D5&wgl=1&dt=1505951323852&bpp=12&bdt=1196&fdt=22&idt=141&shv=r20170913&cbv=r20170110&saldr=aa&correlator=2982342932767&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=62889004&ga_fc=1&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=5&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=62710012%2C62710015%2C156549042%2C26835105&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=zO3XNgJOoc&p=http%3A//bbs.wenxuecity.com&dtd=207"
+1505951324940	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951324&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D5&wgl=1&dt=1505951323852&bpp=12&bdt=1196&fdt=22&idt=141&shv=r20170913&cbv=r20170110&saldr=aa&correlator=2982342932767&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=62889004&ga_fc=1&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=5&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=62710012%2C62710015%2C156549042%2C26835105&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=zO3XNgJOoc&p=http%3A//bbs.wenxuecity.com&dtd=207"
+1505951325033	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951324&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D5&wgl=1&dt=1505951323852&bpp=12&bdt=1196&fdt=22&idt=141&shv=r20170913&cbv=r20170110&saldr=aa&correlator=2982342932767&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=62889004&ga_fc=1&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=5&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=62710012%2C62710015%2C156549042%2C26835105&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=zO3XNgJOoc&p=http%3A//bbs.wenxuecity.com&dtd=207"
+1505951325051	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951324&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D5&wgl=1&dt=1505951323852&bpp=12&bdt=1196&fdt=22&idt=141&shv=r20170913&cbv=r20170110&saldr=aa&correlator=2982342932767&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=62889004&ga_fc=1&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=5&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=62710012%2C62710015%2C156549042%2C26835105&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=zO3XNgJOoc&p=http%3A//bbs.wenxuecity.com&dtd=207"
+1505951325052	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=5"
+1505951325111	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951324&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D5&wgl=1&dt=1505951323852&bpp=12&bdt=1196&fdt=22&idt=141&shv=r20170913&cbv=r20170110&saldr=aa&correlator=2982342932767&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=62889004&ga_fc=1&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=5&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=62710012%2C62710015%2C156549042%2C26835105&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=zO3XNgJOoc&p=http%3A//bbs.wenxuecity.com&dtd=207"
+1505951325113	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951324&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D5&wgl=1&dt=1505951323852&bpp=12&bdt=1196&fdt=22&idt=141&shv=r20170913&cbv=r20170110&saldr=aa&correlator=2982342932767&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=62889004&ga_fc=1&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=5&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=62710012%2C62710015%2C156549042%2C26835105&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=zO3XNgJOoc&p=http%3A//bbs.wenxuecity.com&dtd=207"
+1505951325327	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967459"
+1505951325463	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=160x600&output=html&h=600&slotname=7152851202&adk=455031403&adf=3649217647&w=160&lmt=1505951324&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D5&wgl=1&dt=1505951324117&bpp=8&bdt=1461&fdt=17&idt=232&shv=r20170913&cbv=r20170110&saldr=aa&prev_fmts=728x90&correlator=2982342932767&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=62889004&ga_fc=1&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=5&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=988&ady=672&biw=1249&bih=718&abxe=1&eid=62710012%2C62710015%2C156549042%2C26835105&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=2&xpc=ZRniZnmSeP&p=http%3A//bbs.wenxuecity.com&dtd=311"
+1505951325512	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=160x600&output=html&h=600&slotname=7152851202&adk=455031403&adf=3649217647&w=160&lmt=1505951324&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D5&wgl=1&dt=1505951324117&bpp=8&bdt=1461&fdt=17&idt=232&shv=r20170913&cbv=r20170110&saldr=aa&prev_fmts=728x90&correlator=2982342932767&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=62889004&ga_fc=1&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=5&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=988&ady=672&biw=1249&bih=718&abxe=1&eid=62710012%2C62710015%2C156549042%2C26835105&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=2&xpc=ZRniZnmSeP&p=http%3A//bbs.wenxuecity.com&dtd=311"
+1505951325557	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=160x600&output=html&h=600&slotname=7152851202&adk=455031403&adf=3649217647&w=160&lmt=1505951324&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D5&wgl=1&dt=1505951324117&bpp=8&bdt=1461&fdt=17&idt=232&shv=r20170913&cbv=r20170110&saldr=aa&prev_fmts=728x90&correlator=2982342932767&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=62889004&ga_fc=1&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=5&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=988&ady=672&biw=1249&bih=718&abxe=1&eid=62710012%2C62710015%2C156549042%2C26835105&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=2&xpc=ZRniZnmSeP&p=http%3A//bbs.wenxuecity.com&dtd=311"
+1505951325575	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=160x600&output=html&h=600&slotname=7152851202&adk=455031403&adf=3649217647&w=160&lmt=1505951324&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D5&wgl=1&dt=1505951324117&bpp=8&bdt=1461&fdt=17&idt=232&shv=r20170913&cbv=r20170110&saldr=aa&prev_fmts=728x90&correlator=2982342932767&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=62889004&ga_fc=1&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=5&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=988&ady=672&biw=1249&bih=718&abxe=1&eid=62710012%2C62710015%2C156549042%2C26835105&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=2&xpc=ZRniZnmSeP&p=http%3A//bbs.wenxuecity.com&dtd=311"
+1505951325578	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=5"
+1505951325583	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=5"
+1505951326355	Marionette	DEBUG	Received DOM event "beforeunload" for "http://bbs.wenxuecity.com/cooking/?page=5"
+1505951326555	Marionette	DEBUG	Received DOM event "pagehide" for "http://bbs.wenxuecity.com/cooking/?page=5"
+1505951326561	Marionette	DEBUG	Received DOM event "unload" for "http://bbs.wenxuecity.com/cooking/?page=5"
+1505951326755	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967439"
+1505951326756	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967454"
+1505951326756	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967456"
+1505951326757	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967441"
+1505951326758	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967447"
+1505951326758	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967437"
+1505951326759	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967461"
+1505951326760	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967463"
+1505951326761	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967449"
+1505951326762	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967445"
+1505951326766	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967442"
+1505951326767	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967450"
+1505951327431	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=6"
+1505951327524	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/html/r20170913/r20170110/zrt_lookup.html#"
+1505951327531	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/html/r20170913/r20170110/zrt_lookup.html#"
+1505951327685	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=6"
+1505951327704	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=6"
+1505951327705	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=6"
+1505951327707	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=6"
+1505951327823	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=6"
+1505951327976	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=6"
+1505951327978	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=6"
+1505951327980	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=6"
+1505951327981	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://bbs.wenxuecity.com/cooking/?page=6"
+1505951327984	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=6"
+1505951328285	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951327&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D6&wgl=1&dt=1505951327406&bpp=14&bdt=853&fdt=29&idt=142&shv=r20170913&cbv=r20170110&saldr=aa&correlator=6861071266086&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=588128973&ga_fc=1&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=6&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=156549042%2C389613000&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=0KNXBnzdXP&p=http%3A//bbs.wenxuecity.com&dtd=214"
+1505951328517	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951327&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D6&wgl=1&dt=1505951327406&bpp=14&bdt=853&fdt=29&idt=142&shv=r20170913&cbv=r20170110&saldr=aa&correlator=6861071266086&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=588128973&ga_fc=1&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=6&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=156549042%2C389613000&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=0KNXBnzdXP&p=http%3A//bbs.wenxuecity.com&dtd=214"
+1505951328664	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951327&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D6&wgl=1&dt=1505951327406&bpp=14&bdt=853&fdt=29&idt=142&shv=r20170913&cbv=r20170110&saldr=aa&correlator=6861071266086&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=588128973&ga_fc=1&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=6&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=156549042%2C389613000&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=0KNXBnzdXP&p=http%3A//bbs.wenxuecity.com&dtd=214"
+1505951328681	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951327&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D6&wgl=1&dt=1505951327406&bpp=14&bdt=853&fdt=29&idt=142&shv=r20170913&cbv=r20170110&saldr=aa&correlator=6861071266086&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=588128973&ga_fc=1&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=6&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=156549042%2C389613000&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=0KNXBnzdXP&p=http%3A//bbs.wenxuecity.com&dtd=214"
+1505951328683	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=6"
+1505951328725	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951327&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D6&wgl=1&dt=1505951327406&bpp=14&bdt=853&fdt=29&idt=142&shv=r20170913&cbv=r20170110&saldr=aa&correlator=6861071266086&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=588128973&ga_fc=1&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=6&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=156549042%2C389613000&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=0KNXBnzdXP&p=http%3A//bbs.wenxuecity.com&dtd=214"
+1505951328727	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=728x90&output=html&h=90&slotname=8466524802&adk=1151909289&adf=994900135&w=728&lmt=1505951327&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D6&wgl=1&dt=1505951327406&bpp=14&bdt=853&fdt=29&idt=142&shv=r20170913&cbv=r20170110&saldr=aa&correlator=6861071266086&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=588128973&ga_fc=1&pv=2&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=6&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=261&ady=335&biw=1249&bih=718&abxe=1&eid=156549042%2C389613000&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=1&xpc=0KNXBnzdXP&p=http%3A//bbs.wenxuecity.com&dtd=214"
+1505951329125	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967490"
+1505951329135	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=160x600&output=html&h=600&slotname=7152851202&adk=455031403&adf=3649217647&w=160&lmt=1505951327&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D6&wgl=1&dt=1505951327664&bpp=10&bdt=1110&fdt=25&idt=217&shv=r20170913&cbv=r20170110&saldr=aa&prev_fmts=728x90&correlator=6861071266086&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=588128973&ga_fc=1&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=6&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=988&ady=672&biw=1249&bih=718&abxe=1&eid=156549042%2C389613000&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=2&xpc=kc2klFRdPm&p=http%3A//bbs.wenxuecity.com&dtd=277"
+1505951329198	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=160x600&output=html&h=600&slotname=7152851202&adk=455031403&adf=3649217647&w=160&lmt=1505951327&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D6&wgl=1&dt=1505951327664&bpp=10&bdt=1110&fdt=25&idt=217&shv=r20170913&cbv=r20170110&saldr=aa&prev_fmts=728x90&correlator=6861071266086&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=588128973&ga_fc=1&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=6&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=988&ady=672&biw=1249&bih=718&abxe=1&eid=156549042%2C389613000&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=2&xpc=kc2klFRdPm&p=http%3A//bbs.wenxuecity.com&dtd=277"
+1505951329218	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=160x600&output=html&h=600&slotname=7152851202&adk=455031403&adf=3649217647&w=160&lmt=1505951327&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D6&wgl=1&dt=1505951327664&bpp=10&bdt=1110&fdt=25&idt=217&shv=r20170913&cbv=r20170110&saldr=aa&prev_fmts=728x90&correlator=6861071266086&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=588128973&ga_fc=1&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=6&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=988&ady=672&biw=1249&bih=718&abxe=1&eid=156549042%2C389613000&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=2&xpc=kc2klFRdPm&p=http%3A//bbs.wenxuecity.com&dtd=277"
+1505951329230	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2949503366801132&format=160x600&output=html&h=600&slotname=7152851202&adk=455031403&adf=3649217647&w=160&lmt=1505951327&loeid=156549052&flash=0&url=http%3A%2F%2Fbbs.wenxuecity.com%2Fcooking%2F%3Fpage%3D6&wgl=1&dt=1505951327664&bpp=10&bdt=1110&fdt=25&idt=217&shv=r20170913&cbv=r20170110&saldr=aa&prev_fmts=728x90&correlator=6861071266086&frm=20&ga_vid=1182921169.1505951308&ga_sid=1505951308&ga_hid=588128973&ga_fc=1&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=-420&u_his=6&u_java=0&u_h=900&u_w=1600&u_ah=900&u_aw=1600&u_cd=24&u_nplug=0&u_nmime=0&adx=988&ady=672&biw=1249&bih=718&abxe=1&eid=156549042%2C389613000&oid=3&rx=0&eae=0&fc=528&brdim=%2C%2C4%2C4%2C1600%2C0%2C1280%2C810%2C1266%2C718&vis=1&rsz=%7C%7CeE%7C&abl=CS&ppjl=f&pfx=0&fu=16&bc=1&ifi=2&xpc=kc2klFRdPm&p=http%3A//bbs.wenxuecity.com&dtd=277"
+1505951329232	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=6"
+1505951329236	Marionette	DEBUG	Received DOM event "pageshow" for "http://bbs.wenxuecity.com/cooking/?page=6"
+1505951329775	Marionette	DEBUG	Received DOM event "beforeunload" for "http://bbs.wenxuecity.com/cooking/?page=6"
+1505951329990	Marionette	DEBUG	Received DOM event "pagehide" for "http://bbs.wenxuecity.com/cooking/?page=6"
+1505951330007	Marionette	DEBUG	Received DOM event "unload" for "http://bbs.wenxuecity.com/cooking/?page=6"
+1505951330331	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967470"
+1505951330332	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967485"
+1505951330332	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967488"
+1505951330333	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967472"
+1505951330334	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967478"
+1505951330335	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967468"
+1505951330335	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967492"
+1505951330336	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967494"
+1505951330336	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967480"
+1505951330337	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967476"
+1505951330337	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967473"
+1505951330338	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967481"
+1506618589077	geckodriver	INFO	geckodriver 0.19.0
+1506618589084	geckodriver	INFO	Listening on 127.0.0.1:22590
+1506618589145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\qiangli3\\AppData\\Local\\Temp\\rust_mozprofile.QUFjKwWSkS1R"
+1506618589601	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506618590009	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 20880] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 25536] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6884] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6884] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506618591369	Marionette	INFO	Listening on port 22594
+1506618591372	Marionette	INFO	Listening on port 22594
+1506618591868	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506618591914	Marionette	DEBUG	loaded listener.js
+1506618611310	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[Parent 25536] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23656] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23656] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 20880] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506618622926	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1506618622928	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1506618628020	geckodriver	INFO	geckodriver 0.19.0
+1506618628026	geckodriver	INFO	Listening on 127.0.0.1:22632
+1506618628568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\qiangli3\\AppData\\Local\\Temp\\rust_mozprofile.6L5TNLfl1qHn"
+1506618628910	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506618630207	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16668] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16668] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506618631507	Marionette	INFO	Listening on port 22636
+1506618631514	Marionette	INFO	Listening on port 22636
+1506618631746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506618631791	Marionette	DEBUG	loaded listener.js
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1408] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506618648686	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Parent 1408] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 25048] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 4228] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1506618723741	geckodriver	INFO	geckodriver 0.19.0
+1506618723748	geckodriver	INFO	Listening on 127.0.0.1:22702
+1506618724335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\qiangli3\\AppData\\Local\\Temp\\rust_mozprofile.VrF74Yb1WBlw"
+1506618724687	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506618725987	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5024] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 21588] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21588] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506618727308	Marionette	INFO	Listening on port 22706
+1506618727314	Marionette	INFO	Listening on port 22706
+1506618727495	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506618727522	Marionette	DEBUG	loaded listener.js
+1506618747245	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1506618789323	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1506618810332	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[GPU 5024] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3520] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1506619254605	geckodriver	INFO	geckodriver 0.19.0
+1506619254612	geckodriver	INFO	Listening on 127.0.0.1:22960
+1506619254671	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\qiangli3\\AppData\\Local\\Temp\\rust_mozprofile.6GDh6CPzb07M"
+1506619255057	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506619255429	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 22280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1506619256700	Marionette	INFO	Listening on port 22964
+1506619256708	Marionette	INFO	Listening on port 22964
+1506619256840	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506619256880	Marionette	DEBUG	loaded listener.js
+[GPU 22280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 27344] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 21384] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506619273026	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1506619921101	geckodriver	INFO	geckodriver 0.19.0
+1506619921108	geckodriver	INFO	Listening on 127.0.0.1:23427
+1506619921714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\qiangli3\\AppData\\Local\\Temp\\rust_mozprofile.xLbnjNjlp2xL"
+1506619922116	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506619922510	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 24268] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 26572] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17536] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17536] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506619923799	Marionette	INFO	Listening on port 23431
+1506619923810	Marionette	INFO	Listening on port 23431
+1506619923880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506619923904	Marionette	DEBUG	loaded listener.js
+1506619925401	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1506620090150	geckodriver	INFO	geckodriver 0.19.0
+1506620090157	geckodriver	INFO	Listening on 127.0.0.1:23738
+1506620090752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\qiangli3\\AppData\\Local\\Temp\\rust_mozprofile.F6Dbcg76nFzG"
+1506620091112	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506620113376	geckodriver	INFO	geckodriver 0.19.0
+1506620113383	geckodriver	INFO	Listening on 127.0.0.1:23774
+1506620113960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\qiangli3\\AppData\\Local\\Temp\\rust_mozprofile.bOsJOhtticra"
+1506620114316	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506620114680	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 25688] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506620115920	Marionette	INFO	Listening on port 23778
+1506620115930	Marionette	INFO	Listening on port 23778
+1506620116110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506620116136	Marionette	DEBUG	loaded listener.js
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 20280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 30404] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1506620701374	geckodriver	INFO	geckodriver 0.19.0
+1506620701380	geckodriver	INFO	Listening on 127.0.0.1:1600
+1506620701944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\qiangli3\\AppData\\Local\\Temp\\rust_mozprofile.dBkFiPsowq3f"
+1506620702402	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506620703439	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 25348] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25348] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506620704896	Marionette	INFO	Listening on port 1604
+1506620705164	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506620705193	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 17808] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506620710167	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 27796] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1506620758971	geckodriver	INFO	geckodriver 0.19.0
+1506620758978	geckodriver	INFO	Listening on 127.0.0.1:1725
+1506620759530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\qiangli3\\AppData\\Local\\Temp\\rust_mozprofile.qf4iLVjyvz7c"
+1506620759885	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506620760243	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 28036] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28036] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506620761382	Marionette	INFO	Listening on port 1729
+1506620761688	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506620761716	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 28388] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506620772081	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 21048] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+1506620920906	geckodriver	INFO	geckodriver 0.19.0
+1506620920913	geckodriver	INFO	Listening on 127.0.0.1:2032
+1506620921472	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\qiangli3\\AppData\\Local\\Temp\\rust_mozprofile.MQNkeA6Ued4s"
+1506620921808	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506620922185	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 24604] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24604] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506620923344	Marionette	INFO	Listening on port 2037
+1506620923648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506620923674	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 29472] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 29472] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506620927431	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1506621038319	geckodriver	INFO	geckodriver 0.19.0
+1506621038326	geckodriver	INFO	Listening on 127.0.0.1:2254
+1506621038888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\qiangli3\\AppData\\Local\\Temp\\rust_mozprofile.7tqTHb40sHus"
+1506621039215	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506621040599	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 29728] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 27604] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27604] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506621041743	Marionette	INFO	Listening on port 2258
+1506621042051	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506621042078	Marionette	DEBUG	Register listener.js for window 4294967297
+[Parent 29728] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506621050104	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 28228] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1506621053257	geckodriver	INFO	geckodriver 0.19.0
+1506621053264	geckodriver	INFO	Listening on 127.0.0.1:2283
+1506621053797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\qiangli3\\AppData\\Local\\Temp\\rust_mozprofile.VhiUXI5UGvR5"
+1506621054116	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506621054511	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 29624] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 28504] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28504] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506621055870	Marionette	INFO	Listening on port 2287
+1506621055955	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506621055982	Marionette	DEBUG	Register listener.js for window 4294967297
+1506621075916	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1506621118045	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1506621139059	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 20588] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8132] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1506621262271	geckodriver	INFO	geckodriver 0.19.0
+1506621262278	geckodriver	INFO	Listening on 127.0.0.1:2532
+1506621262827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\qiangli3\\AppData\\Local\\Temp\\rust_mozprofile.U0WZsQZpB5Ah"
+1506621263158	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506621263554	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 20264] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 30108] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 30108] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506621264769	Marionette	INFO	Listening on port 2536
+1506621264983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506621265010	Marionette	DEBUG	Register listener.js for window 4294967297
+[Parent 20264] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506621269487	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1506624233253	geckodriver	INFO	geckodriver 0.19.0
+1506624233260	geckodriver	INFO	Listening on 127.0.0.1:3831
+1506624233845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\qiangli3\\AppData\\Local\\Temp\\rust_mozprofile.9nTv44HDFJ7w"
+1506624234201	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506624235600	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 19816] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506624236777	Marionette	INFO	Listening on port 3835
+1506624237006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506624237052	Marionette	DEBUG	Register listener.js for window 4294967297
+1506624256696	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1506624298803	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1506624319817	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ng on 127.0.0.1:3985
+1506624450608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\qiangli3\\AppData\\Local\\Temp\\rust_mozprofile.pDcQ9c8AjTBi"
+1506624450938	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506624452382	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 19964] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 26680] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506624453559	Marionette	INFO	Listening on port 3989
+1506624453769	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506624453795	Marionette	DEBUG	Register listener.js for window 4294967297
+[Parent 19964] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19964] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506624457762	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1506624465309	geckodriver	INFO	geckodriver 0.19.0
+1506624465316	geckodriver	INFO	Listening on 127.0.0.1:4012
+1506624465869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\qiangli3\\AppData\\Local\\Temp\\rust_mozprofile.5EbrvWfjduT1"
+1506624466282	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506624466653	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 29464] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29464] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506624467770	Marionette	INFO	Listening on port 4016
+1506624468025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506624468052	Marionette	DEBUG	Register listener.js for window 4294967297
+1506624487682	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1506624529736	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1506624550743	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 21472] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 30180] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 28908] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1506624592262	geckodriver	INFO	geckodriver 0.19.0
+1506624592269	geckodriver	INFO	Listening on 127.0.0.1:4199
+1506624592814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\qiangli3\\AppData\\Local\\Temp\\rust_mozprofile.s7IICdOUMtX2"
+1506624593124	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506624593494	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2204] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 19128] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19128] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506624594697	Marionette	INFO	Listening on port 4203
+1506624594975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506624595003	Marionette	DEBUG	Register listener.js for window 4294967297
+[Parent 2204] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2204] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2824] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2824] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506624599737	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1506624603646	geckodriver	INFO	geckodriver 0.19.0
+1506624603654	geckodriver	INFO	Listening on 127.0.0.1:4226
+1506624604261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\qiangli3\\AppData\\Local\\Temp\\rust_mozprofile.sRSICNg9dBRv"
+1506624604592	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506624604970	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 24784] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24784] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506624606111	Marionette	INFO	Listening on port 4230
+1506624606418	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506624606446	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 21228] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506624610605	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17228] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 28624] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28624] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1506632076080	geckodriver	INFO	geckodriver 0.19.0
+1506632076088	geckodriver	INFO	Listening on 127.0.0.1:5990
+1506632076667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\qiangli3\\AppData\\Local\\Temp\\rust_mozprofile.Qa299wFCEylN"
+1506632077051	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506632077421	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 25420] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25420] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506632078674	Marionette	INFO	Listening on port 5994
+1506632078852	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506632078879	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 20316] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506632084207	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+1506632143738	geckodriver	INFO	geckodriver 0.19.0
+1506632143745	geckodriver	INFO	Listening on 127.0.0.1:6026
+1506632144348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\qiangli3\\AppData\\Local\\Temp\\rust_mozprofile.sTy8vfSJXcli"
+1506632144682	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506632146145	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8080] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8080] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506632147307	Marionette	INFO	Listening on port 6030
+1506632147513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506632147539	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 21968] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 29100] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9128] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506632158951	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1506632163608	geckodriver	INFO	geckodriver 0.19.0
+1506632163615	geckodriver	INFO	Listening on 127.0.0.1:6054
+1506632164163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\qiangli3\\AppData\\Local\\Temp\\rust_mozprofile.q5NviLhQ2qt1"
+1506632164494	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506632164868	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 372] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 372] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506632166055	Marionette	INFO	Listening on port 6058
+1506632166322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506632166350	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 30660] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 29920] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506632178879	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1506632244632	geckodriver	INFO	geckodriver 0.19.0
+1506632244639	geckodriver	INFO	Listening on 127.0.0.1:6090
+1506632245223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\qiangli3\\AppData\\Local\\Temp\\rust_mozprofile.GQjCYIxre1H9"
+1506632245572	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506632245981	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 23584] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 25036] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25036] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506632247133	Marionette	INFO	Listening on port 6094
+1506632247381	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506632247410	Marionette	DEBUG	Register listener.js for window 4294967297
+1506632254881	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506632248789	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 29880] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 29880] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506632249928	Marionette	INFO	Listening on port 6116
+1506632250251	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506632250291	Marionette	DEBUG	Register listener.js for window 4294967297
+1506632253722	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+1506632259328	geckodriver	INFO	geckodriver 0.19.0
+1506632259334	geckodriver	INFO	Listening on 127.0.0.1:6141
+1506632259951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\qiangli3\\AppData\\Local\\Temp\\rust_mozprofile.Q0rZvZKPXNbE"
+1506632260299	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506632260665	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 21072] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 20512] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20512] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506632261806	Marionette	INFO	Listening on port 6145
+1506632262117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506632262150	Marionette	DEBUG	Register listener.js for window 4294967297
+1506632267212	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Parent 21072] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 20868] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 28536] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 28376] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+les/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506632263407	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8012] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 22268] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22268] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506632264728	Marionette	INFO	Listening on port 6167
+1506632264884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506632264912	Marionette	DEBUG	Register listener.js for window 4294967297
+[Parent 8012] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8012] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16400] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506632266386	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1506632292997	geckodriver	INFO	geckodriver 0.19.0
+1506632293004	geckodriver	INFO	Listening on 127.0.0.1:6201
+1506632293602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\qiangli3\\AppData\\Local\\Temp\\rust_mozprofile.LMMbK7DSaw46"
+1506632293947	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506632294326	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 21956] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21956] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506632295445	Marionette	INFO	Listening on port 6205
+1506632295763	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506632295791	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
+[Child 29684] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506632310807	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\qiangli3\AppData\Local\openvr\openvrpaths.vrpath
